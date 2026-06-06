@@ -16,7 +16,7 @@ A passionate **DevOps & Cloud Engineer** with **6+ years** of experience designi
 |----------|---------|
 | 🎓 Education | B.E – Electronics & Communication, Sathyabama University |
 | ☁️ Certification | AWS Solutions Architect – Associate (Feb 2024 – Feb 2027) |
-| 💼 Current Role | DevOps & Cloud Engineer at SafeStart International |
+| 💼 Current Role | DevOps & Cloud Engineer |
 | 🌐 Languages | English · Tamil · Dutch (A2) |
 
 ---
