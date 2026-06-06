@@ -26,7 +26,7 @@ A passionate **DevOps & Cloud Engineer** with **6+ years** of experience designi
 **☁️ Cloud:** AWS, Azure  
 **⚙️ DevOps & Automation:** Terraform, Ansible, Jenkins, GitHub Actions, Shell/Python  
 **🐳 Containers:** Docker, Kubernetes, Helm  
-**🔐 Security:** SonarQube, HCL AppScan, MobSF, OWASP ZAP
+**🔐 Security:** SonarQube, HCL AppScan, MobSF, OWASP ZAP  
 **📊 Observability:** Prometheus, Grafana, EFK Stack  
 **🗄️ Databases:** MongoDB, PostgreSQL  
 
