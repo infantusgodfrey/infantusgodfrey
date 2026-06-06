@@ -77,9 +77,8 @@ I actively share knowledge on DevOps, Cloud engineering and security best practi
 ## 🎯 Open Source & Contributions
 
 Currently exploring opportunities to contribute to and create open-source projects in the DevOps/Cloud Security space. Interested in collaborations on:
-- 🔐 DevSecOps automation tools
-- ☁️ Infrastructure as Code templates
-- 📊 Cloud cost optimization utilities
+- 🔐 DevSecOps pipeline
+- ☁️ Cloud architecting 
 - 🤖 Serverless/AI integration projects
 
 If you have a project in mind, **let's connect!**
