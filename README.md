@@ -15,9 +15,9 @@ A passionate **DevOps & Cloud Engineer** with **6+ years** of experience designi
 | Key Info | Details |
 |----------|---------|
 | 🎓 Education | B.E – Electronics & Communication, Sathyabama University |
-| ☁️ Certification | AWS Solutions Architect – Associate (Feb 2024 – Feb 2027) |
+| ☁️ Certification | AWS Solutions Architect – Associate |
 | 💼 Current Role | DevOps & Cloud Engineer |
-| 🌐 Languages | English · Tamil · Dutch (A2) |
+| 🌐 Languages | English · Tamil · Dutch |
 
 ---
 
