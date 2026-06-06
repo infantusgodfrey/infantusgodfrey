@@ -66,7 +66,7 @@ I actively share knowledge on DevOps, Cloud engineering and security best practi
 
 ## 🏆 Key Achievements
 
-✅ **AWS Certified Solutions Architect – Associate** (Valid until Feb 2027)  
+✅ **AWS Certified Solutions Architect – Associate**
 ✅ **DevSecOps Expert** - 6+ years embedding security into Shift-Left CI/CD  
 ✅ **Cloud Cost Optimization** - Reduced AWS spend by 20% through architectural optimization  
 ✅ **CIS Compliance Champion** - Achieved 80% compliance via Ansible automation  
