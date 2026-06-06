@@ -2,7 +2,7 @@
 
 **DevOps & Cloud Engineer** | AWS Certified Solutions Architect | Building Secure, Scalable Cloud-Native Platforms
 
-📍 Chennai, India | 🔗 [LinkedIn](https://www.linkedin.com/in/infantusgodfrey) | 📧 [Email](mailto:infantusgodfreye@gmail.com)
+📍 Chennai, India | 🔗 [LinkedIn](https://www.linkedin.com/in/infantusgodfrey) | 📧 [Email](mailto:infantusgody@gmail.com)
 
 ---
 
@@ -54,7 +54,7 @@ I write about DevOps, Cloud Security, and Infrastructure Automation:
 
 ## 🎤 Speaking & Community
 
-I actively share knowledge on cloud engineering, DevOps, and security best practices:
+I actively share knowledge on DevOps, Cloud engineering and security best practices:
 
 | Topic | Venue | Date | Blog |
 |-------|-------|------|------|
@@ -67,11 +67,11 @@ I actively share knowledge on cloud engineering, DevOps, and security best pract
 ## 🏆 Key Achievements
 
 ✅ **AWS Certified Solutions Architect – Associate** (Valid until Feb 2027)  
-✅ **DevSecOps Expert** — 6+ years embedding security into Shift-Left CI/CD  
-✅ **Cloud Cost Optimization** — Reduced AWS spend by 20% through architectural optimization  
-✅ **CIS Compliance Champion** — Achieved 80% compliance via Ansible automation  
-✅ **Serverless AI Engineering** — Production AI systems using AWS Bedrock + Claude  
-✅ **Community Mentor** — Hands-on workshops on Docker, Kubernetes, Terraform, AWS, Azure  
+✅ **DevSecOps Expert** - 6+ years embedding security into Shift-Left CI/CD  
+✅ **Cloud Cost Optimization** - Reduced AWS spend by 20% through architectural optimization  
+✅ **CIS Compliance Champion** - Achieved 80% compliance via Ansible automation  
+✅ **Serverless AI Engineering** - Production AI systems using AWS Bedrock + Claude  
+✅ **Community Mentor** - Hands-on workshops on Docker, Kubernetes, Terraform, AWS, Azure  
 
 
 ## 🎯 Open Source & Contributions
@@ -89,7 +89,7 @@ If you have a project in mind, **let's connect!**
 ## 🤝 Let's Connect
 
 - 💼 **LinkedIn:** [infantusgodfrey](https://www.linkedin.com/in/infantusgodfrey)
-- 📧 **Email:** [infantusgodfreye@gmail.com](mailto:infantusgodfreye@gmail.com)
+- 📧 **Email:** [infantusgodfreye@gmail.com](mailto:infantusgody@gmail.com)
 - 🐙 **GitHub:** [infantusgodfrey](https://github.com/infantusgodfrey)
 
 **Open to:** Technical consulting, mentorship, speaking engagements, DevOps/Cloud architecture discussions
