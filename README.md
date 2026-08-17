@@ -39,7 +39,7 @@ A passionate **DevOps & Cloud Engineer** with **6+ years** of experience designi
 | **Serverless AI Translation Engine** | AWS Lambda, Bedrock, Anthropic Claude, S3 | Fully serverless multilingual translation with custom AI prompts zero ops |
 | **DevSecOps SaaS Platform** | Kubernetes, Jenkins, SonarQube, Artifactory, Anchore, ClamAV, OpenVAS, EFK | End-to-end security toolchain integrating SAST, DAST, SCA, image scanning, logging |
 | **CIS Benchmark Automation** | Ansible, Python, Shell, Linux, Windows | Automated auditing & remediation achieving 80% compliance from baseline |
-
+| **NIS2 Compliance Automation** | Azure, terraform | EU NIS2 obligations into deployed, evidenced, auditable Azure controls |
 ---
 
 ## 📚 Blog & Articles
